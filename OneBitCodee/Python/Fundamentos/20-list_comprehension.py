@@ -15,3 +15,4 @@ evens = [i for i in range(10) if i % 2 == 0]
 gamesList = ["Mario Odyssey", "Donkey Kong Country", "Luigi's mansion", "Kirby"]
 
 newList = [x for x in gamesList if "a" in x]
+print(newList)
