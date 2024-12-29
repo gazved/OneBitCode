@@ -19,3 +19,9 @@ gamesDict = {
 
 pp = pprint.PrettyPrinter(depth=4)
 pp.pprint(gamesDict)
+
+gamesDict["donkey kong country"]["Players"] = 2
+print(gamesDict["donkey kong country"])
+
+
+del gamesDict["fifa 23"]
