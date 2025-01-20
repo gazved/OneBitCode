@@ -1,0 +1,3 @@
+pip list //lista todas as bibliotecas instaladas
+pip install //
+pip freeze //util para instalar a mesma versão
